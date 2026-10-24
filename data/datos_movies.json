@@ -98,5 +98,205 @@
     "rating": 7.4,
     "duration_minutes": 102,
     "box_office_usa_usd": 400738009
+  },
+  {
+    "id_movie": "MOV-2008-000011",
+    "title": "Iron Man",
+    "director": "Jon Favreau",
+    "release_year": 2008,
+    "genre": "Marvel",
+    "rating": 7.9,
+    "duration_minutes": 126,
+    "box_office_usa_usd": 319034126
+  },
+  {
+    "id_movie": "MOV-2012-000012",
+    "title": "The Avengers",
+    "director": "Joss Whedon",
+    "release_year": 2012,
+    "genre": "Marvel",
+    "rating": 8.0,
+    "duration_minutes": 143,
+    "box_office_usa_usd": 623357910
+  },
+  {
+    "id_movie": "MOV-2014-000013",
+    "title": "Guardians of the Galaxy",
+    "director": "James Gunn",
+    "release_year": 2014,
+    "genre": "Marvel",
+    "rating": 8.0,
+    "duration_minutes": 121,
+    "box_office_usa_usd": 333718600
+  },
+  {
+    "id_movie": "MOV-2018-000014",
+    "title": "Black Panther",
+    "director": "Ryan Coogler",
+    "release_year": 2018,
+    "genre": "Marvel",
+    "rating": 7.3,
+    "duration_minutes": 134,
+    "box_office_usa_usd": 700426566
+  },
+  {
+    "id_movie": "MOV-2019-000015",
+    "title": "Captain Marvel",
+    "director": "Anna Boden, Ryan Fleck",
+    "release_year": 2019,
+    "genre": "Marvel",
+    "rating": 6.7,
+    "duration_minutes": 123,
+    "box_office_usa_usd": 426829839
+  },
+  {
+    "id_movie": "MOV-2019-000016",
+    "title": "Avengers: Endgame",
+    "director": "Anthony Russo, Joe Russo",
+    "release_year": 2019,
+    "genre": "Marvel",
+    "rating": 8.4,
+    "duration_minutes": 181,
+    "box_office_usa_usd": 898443082
+  },
+  {
+    "id_movie": "MOV-2021-000017",
+    "title": "Spider-Man: No Way Home",
+    "director": "Jon Watts",
+    "release_year": 2021,
+    "genre": "Marvel",
+    "rating": 8.1,
+    "duration_minutes": 148,
+    "box_office_usa_usd": 814866759
+  },
+  {
+    "id_movie": "MOV-2016-000018",
+    "title": "Doctor Strange",
+    "director": "Scott Derrickson",
+    "release_year": 2016,
+    "genre": "Marvel",
+    "rating": 7.5,
+    "duration_minutes": 115,
+    "box_office_usa_usd": 232641920
+  },
+  {
+    "id_movie": "MOV-2017-000019",
+    "title": "Thor: Ragnarok",
+    "director": "Taika Waititi",
+    "release_year": 2017,
+    "genre": "Marvel",
+    "rating": 7.9,
+    "duration_minutes": 130,
+    "box_office_usa_usd": 315058289
+  },
+  {
+    "id_movie": "MOV-2016-000020",
+    "title": "Deadpool",
+    "director": "Tim Miller",
+    "release_year": 2016,
+    "genre": "Marvel",
+    "rating": 8.0,
+    "duration_minutes": 108,
+    "box_office_usa_usd": 363070709
+  },
+  {
+    "id_movie": "MOV-1989-000021",
+    "title": "When Harry Met Sally...",
+    "director": "Rob Reiner",
+    "release_year": 1989,
+    "genre": "Romantic Comedy",
+    "rating": 7.7,
+    "duration_minutes": 95,
+    "box_office_usa_usd": 93117425
+  },
+  {
+    "id_movie": "MOV-1990-000022",
+    "title": "Pretty Woman",
+    "director": "Garry Marshall",
+    "release_year": 1990,
+    "genre": "Romantic Comedy",
+    "rating": 7.1,
+    "duration_minutes": 119,
+    "box_office_usa_usd": 178406268
+  },
+  {
+    "id_movie": "MOV-1994-000023",
+    "title": "Four Weddings and a Funeral",
+    "director": "Mike Newell",
+    "release_year": 1994,
+    "genre": "Romantic Comedy",
+    "rating": 7.1,
+    "duration_minutes": 117,
+    "box_office_usa_usd": 52700832
+  },
+  {
+    "id_movie": "MOV-1997-000024",
+    "title": "My Best Friend's Wedding",
+    "director": "P. J. Hogan",
+    "release_year": 1997,
+    "genre": "Romantic Comedy",
+    "rating": 6.4,
+    "duration_minutes": 105,
+    "box_office_usa_usd": 127120029
+  },
+  {
+    "id_movie": "MOV-1999-000025",
+    "title": "10 Things I Hate About You",
+    "director": "Gil Junger",
+    "release_year": 1999,
+    "genre": "Romantic Comedy",
+    "rating": 7.4,
+    "duration_minutes": 97,
+    "box_office_usa_usd": 38178166
+  },
+  {
+    "id_movie": "MOV-2001-000026",
+    "title": "Bridget Jones's Diary",
+    "director": "Sharon Maguire",
+    "release_year": 2001,
+    "genre": "Romantic Comedy",
+    "rating": 6.8,
+    "duration_minutes": 97,
+    "box_office_usa_usd": 71543427
+  },
+  {
+    "id_movie": "MOV-2003-000027",
+    "title": "How to Lose a Guy in 10 Days",
+    "director": "Donald Petrie",
+    "release_year": 2003,
+    "genre": "Romantic Comedy",
+    "rating": 6.6,
+    "duration_minutes": 116,
+    "box_office_usa_usd": 105813373
+  },
+  {
+    "id_movie": "MOV-2009-000028",
+    "title": "The Proposal",
+    "director": "Anne Fletcher",
+    "release_year": 2009,
+    "genre": "Romantic Comedy",
+    "rating": 6.8,
+    "duration_minutes": 108,
+    "box_office_usa_usd": 163958031
+  },
+  {
+    "id_movie": "MOV-2018-000029",
+    "title": "Crazy Rich Asians",
+    "director": "Jon M. Chu",
+    "release_year": 2018,
+    "genre": "Romantic Comedy",
+    "rating": 6.9,
+    "duration_minutes": 120,
+    "box_office_usa_usd": 174837452
+  },
+  {
+    "id_movie": "MOV-2023-000030",
+    "title": "Anyone But You",
+    "director": "Will Gluck",
+    "release_year": 2023,
+    "genre": "Romantic Comedy",
+    "rating": 6.1,
+    "duration_minutes": 103,
+    "box_office_usa_usd": 88319668
   }
 ]

@@ -50,6 +50,47 @@ def _matches_filter(movie, key, expected_value):
     return False
 
 # Definición de la ruta (/movies) con un método GET
+@app.route('/', methods=['GET'])
+def home():
+    return '''<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Índice API de películas</title>
+</head>
+<body>
+    <h1>Índice API de películas</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Método</th>
+                <th>Descripción</th>
+                <th>Ruta</th>
+                <th>Ejemplo de uso</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>GET</td>
+                <td>Muestra el índice de endpoints disponibles.</td>
+                <td><code>/</code></td>
+                <td><a href="/">Abrir índice</a></td>
+            </tr>
+            <tr>
+                <td>GET</td>
+                <td>Devuelve las películas; admite filtros por campos.</td>
+                <td><code>/movies</code></td>
+                <td>
+                    <a href="/movies">Listar películas</a><br>
+                    <a href="/movies?q=genre:Animation+title:Peter+Pan">Buscar películas animadas cuyo título contenga Peter Pan</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>'''
+
+
 @app.route('/movies', methods=['GET'])
 def obtener_movie_id():
     with MOVIES_FILE.open(encoding='utf-8') as movies_file:
@@ -61,6 +102,10 @@ def obtener_movie_id():
             movie for movie in movies
             if all(_matches_filter(movie, key, value) for key, value in filters)
         ]
+        if not movies:
+            return jsonify({
+                'mensaje': 'No hay registro de peliculas para las caracteristicas seleccionadas'
+            })
     return jsonify(movies)
 
 
