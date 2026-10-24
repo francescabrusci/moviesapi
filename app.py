@@ -1,23 +1,17 @@
+import json
+from pathlib import Path
+
 from flask import Flask, jsonify
 
 # Creación de la aplicación Flask
 app = Flask(__name__)
+MOVIES_FILE = Path(__file__).resolve().parent / 'data' / 'datos_movies.json'
 
 # Definición de la ruta (/movies) con un método GET
 @app.route('/movies', methods=['GET'])
 def obtener_movies():
-    # Creamos una lista con los datos de varias películas
-    movies = [
-        {
-            "id_movie": "MOV-2026-894021",
-            "title": "The Matrix",
-            "director": "Lana Wachowski, Lilly Wachowski", 
-            "release_year": 1999,
-            "genre": "Science Fiction"  
-        }
-    ]
-
-    # Devolvemos la lista de películas y omitimos el código de estado (200 por defecto)
+    with MOVIES_FILE.open(encoding='utf-8') as movies_file:
+        movies = json.load(movies_file)
     return jsonify(movies)
 
 

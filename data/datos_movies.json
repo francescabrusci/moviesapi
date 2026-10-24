@@ -1,0 +1,72 @@
+[
+  {
+    "id_movie": "MOV-1937-000001",
+    "title": "Snow White and the Seven Dwarfs",
+    "director": "David Hand",
+    "release_year": 1937,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1940-000002",
+    "title": "Pinocchio",
+    "director": "Ben Sharpsteen, Hamilton Luske, Bill Roberts, Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney",
+    "release_year": 1940,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1950-000003",
+    "title": "Cinderella",
+    "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "release_year": 1950,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1951-000004",
+    "title": "Alice in Wonderland",
+    "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "release_year": 1951,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1953-000005",
+    "title": "Peter Pan",
+    "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "release_year": 1953,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1959-000006",
+    "title": "Sleeping Beauty",
+    "director": "Clyde Geronimi",
+    "release_year": 1959,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1989-000007",
+    "title": "The Little Mermaid",
+    "director": "Ron Clements, John Musker",
+    "release_year": 1989,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1991-000008",
+    "title": "Beauty and the Beast",
+    "director": "Gary Trousdale, Kirk Wise",
+    "release_year": 1991,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-1994-000009",
+    "title": "The Lion King",
+    "director": "Roger Allers, Rob Minkoff",
+    "release_year": 1994,
+    "genre": "Animation"
+  },
+  {
+    "id_movie": "MOV-2013-000010",
+    "title": "Frozen",
+    "director": "Chris Buck, Jennifer Lee",
+    "release_year": 2013,
+    "genre": "Animation"
+  }
+]
