@@ -5,7 +5,7 @@ from pathlib import Path
 import plotly.graph_objects as go
 import streamlit as st
 
-
+# se está alimentando del json, no de la api, pero claro no tiene mucha lógica llamar a la api dentro de la misma api
 DATA_FILE = Path(__file__).resolve().parent / 'data' / 'datos_movies.json'
 
 
