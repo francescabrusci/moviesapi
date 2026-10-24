@@ -4,69 +4,99 @@
     "title": "Snow White and the Seven Dwarfs",
     "director": "David Hand",
     "release_year": 1937,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.6,
+    "duration_minutes": 83,
+    "box_office_usa_usd": 184925486
   },
   {
     "id_movie": "MOV-1940-000002",
     "title": "Pinocchio",
     "director": "Ben Sharpsteen, Hamilton Luske, Bill Roberts, Norman Ferguson, T. Hee, Wilfred Jackson, Jack Kinney",
     "release_year": 1940,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.4,
+    "duration_minutes": 88,
+    "box_office_usa_usd": 84254167
   },
   {
     "id_movie": "MOV-1950-000003",
     "title": "Cinderella",
     "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
     "release_year": 1950,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.3,
+    "duration_minutes": 74,
+    "box_office_usa_usd": 93141149
   },
   {
     "id_movie": "MOV-1951-000004",
     "title": "Alice in Wonderland",
     "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
     "release_year": 1951,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.3,
+    "duration_minutes": 75,
+    "box_office_usa_usd": null
   },
   {
     "id_movie": "MOV-1953-000005",
     "title": "Peter Pan",
     "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
     "release_year": 1953,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.2,
+    "duration_minutes": 77,
+    "box_office_usa_usd": 87404651
   },
   {
     "id_movie": "MOV-1959-000006",
     "title": "Sleeping Beauty",
     "director": "Clyde Geronimi",
     "release_year": 1959,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.2,
+    "duration_minutes": 75,
+    "box_office_usa_usd": 51600000
   },
   {
     "id_movie": "MOV-1989-000007",
     "title": "The Little Mermaid",
     "director": "Ron Clements, John Musker",
     "release_year": 1989,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.6,
+    "duration_minutes": 83,
+    "box_office_usa_usd": 111543479
   },
   {
     "id_movie": "MOV-1991-000008",
     "title": "Beauty and the Beast",
     "director": "Gary Trousdale, Kirk Wise",
     "release_year": 1991,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 8.0,
+    "duration_minutes": 84,
+    "box_office_usa_usd": 218967620
   },
   {
     "id_movie": "MOV-1994-000009",
     "title": "The Lion King",
     "director": "Roger Allers, Rob Minkoff",
     "release_year": 1994,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 8.5,
+    "duration_minutes": 88,
+    "box_office_usa_usd": 424979720
   },
   {
     "id_movie": "MOV-2013-000010",
     "title": "Frozen",
     "director": "Chris Buck, Jennifer Lee",
     "release_year": 2013,
-    "genre": "Animation"
+    "genre": "Animation",
+    "rating": 7.4,
+    "duration_minutes": 102,
+    "box_office_usa_usd": 400738009
   }
 ]
